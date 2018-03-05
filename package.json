@@ -1,0 +1,20 @@
+{
+  "name": "mds",
+  "version": "1.0.0",
+  "description": "m data structrues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "mds.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexerx/mds.git"
+  },
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexerx/mds/issues"
+  },
+  "homepage": "https://github.com/Alexerx/mds#readme"
+}
